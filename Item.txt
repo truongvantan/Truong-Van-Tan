@@ -1,0 +1,10 @@
+1, but bi, Au Viet, 3000, 4500
+2, but chi, Thien Long, 2000, 3000
+3, but may, Ben Nghe, 10000, 12000
+4, compa, An Loc Viet, 8000, 10000
+5, thuoc ke, Thien Long, 2500, 4500
+6, but mau, Hong Ha, 20000, 25000
+7, sach tham khao, Dana Book, 18000, 20000
+8, so tay, Thanh Dat, 15000, 20000
+9, but bi, Fast, 4000, 4500
+10, but mau, Thien Long, 15000, 20000
