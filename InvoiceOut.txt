@@ -1,0 +1,28 @@
+
+
+*************************************************************************************************************************************************************
+
+Ma KH     Ten KH              Ma san pham         Ten san pham        So luong  Don Gia   Tong Tien 
+10001     Nguyen Van A        
+                                                                      TongSl              TongCong  
+                                                                      0                   0         
+==================================================================================================
+Ma KH     Ten KH              Ma san pham         Ten san pham        So luong  Don Gia   Tong Tien 
+10002     Nguyen Van B        
+                                                                      TongSl              TongCong  
+                                                                      0                   0         
+==================================================================================================
+Ma KH     Ten KH              Ma san pham         Ten san pham        So luong  Don Gia   Tong Tien 
+10003     Nguyen Van C        
+                                                                      TongSl              TongCong  
+                                                                      0                   0         
+==================================================================================================
+Ma KH     Ten KH              Ma san pham         Ten san pham        So luong  Don Gia   Tong Tien 
+10004     Nguyen Van D        
+                                                                      TongSl              TongCong  
+                                                                      0                   0         
+==================================================================================================
+Ma KH     Ten KH              Ma san pham         Ten san pham        So luong  Don Gia   Tong Tien 
+10005     Nguyen Van E        
+                                                                      TongSl              TongCong  
+                                                                      0                   0         
