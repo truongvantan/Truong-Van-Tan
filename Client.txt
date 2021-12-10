@@ -1,5 +1,0 @@
-1, Nguyen Van A, Son Tra, 0905123456
-2, Nguyen Van B, Hai Chau, 0905123457
-3, Nguyen Van C, Lien Chieu, 0905123458
-4, Nguyen Van D, Son Tra, 0905123459
-5, Nguyen Van E, Thanh Khe, 0905123460
